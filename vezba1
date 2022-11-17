@@ -15,7 +15,7 @@ char *str2;
 char btn3, btn2, btn1, btn0;
 char sw1, sw0;
 size_t num_of_bytes = 6;
-float x;
+int x;
 int novo=0;
 int staro=0;
 
