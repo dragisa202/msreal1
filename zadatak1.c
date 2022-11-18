@@ -4,6 +4,7 @@
 
 int main()
 {
+FILE* fp;
 FILE* fp1;
 FILE* fp2;
 FILE* fp3;
@@ -12,6 +13,7 @@ FILE* fp3;
 unsigned char maska;
 char *str1;
 char *str2;
+char lval1,lval2,lval3,lval4;
 char btn3, btn2, btn1, btn0;
 char sw1, sw0;
 size_t num_of_bytes = 6;
